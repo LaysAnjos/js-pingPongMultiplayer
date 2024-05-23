@@ -1,1 +1,1 @@
-# js-pingPongMultiplayer
+# js-PingPongMultiplayer
